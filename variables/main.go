@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-var b string //assignment not allowed outside func for var
+var b string //assignment not allowed outside function for var
 
 func main() {
 	a := 9 //Define,initialize and auto assign data type
