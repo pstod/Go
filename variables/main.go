@@ -11,3 +11,5 @@ func main() {
 	b = "HI"
 	fmt.Println(b)
 }
+
+//every varible declared must be used or replaced by _
