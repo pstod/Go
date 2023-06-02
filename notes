@@ -10,3 +10,9 @@ The zero value is:
 false for the boolean type, and
 "" (the empty string) for strings.
 
+3)Value & Reference types
+Value Types 
+int,bool,struct,float,string
+Reference Types ( where the type points to a struct containing [pointer to actual data] and [some values like capacity,length,etc] )
+slices,maps,channels,pointers,functions :> Here the value passed contains pointer
+
